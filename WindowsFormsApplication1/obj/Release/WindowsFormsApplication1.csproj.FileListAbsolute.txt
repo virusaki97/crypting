@@ -1,0 +1,18 @@
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Simple ASCII Encrypter.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Simple ASCII Encrypter.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Simple ASCII Encrypter.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Simple ASCII Encrypter.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Simple ASCII Encrypter.pdb
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\bin\Release\Simple ASCII Encrypter.exe.config
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\bin\Release\Simple ASCII Encrypter.exe
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\bin\Release\Simple ASCII Encrypter.pdb
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\obj\Release\Simple ASCII Encrypter.exe
+C:\Users\Greg\Downloads\crypt_text\WindowsFormsApplication1\obj\Release\Simple ASCII Encrypter.pdb
